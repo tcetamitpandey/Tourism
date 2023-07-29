@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Tourism/static/css/main.eaa7db12.css",
+    "main.js": "/Tourism/static/js/main.490304b6.js",
+    "static/media/MYIndia.mp4": "/Tourism/static/media/MYIndia.a6dedcab9f6f04761ba5.mp4",
+    "static/media/bg.png": "/Tourism/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/header.png": "/Tourism/static/media/header.763a5dd6de3c893c5c06.png",
+    "static/media/11.jpg": "/Tourism/static/media/11.e7a6f3511c7392d48473.jpg",
+    "static/media/PM Mdoi.jpg": "/Tourism/static/media/PM Mdoi.7979bf5c0d86189afca8.jpg",
+    "static/media/namaste hands 2.png": "/Tourism/static/media/namaste hands 2.668ccdfc46f1c0b1f3d3.png",
+    "static/media/lotus.png": "/Tourism/static/media/lotus.76520316cbeca2958e99.png",
+    "static/media/9.jpg": "/Tourism/static/media/9.dd618ca503eb753dbf52.jpg",
+    "static/media/5.webp": "/Tourism/static/media/5.db2fc798d602750fe305.webp",
+    "static/media/12.jpg": "/Tourism/static/media/12.1312e11c6f3bd9504113.jpg",
+    "static/media/2.webp": "/Tourism/static/media/2.f52cb46282a42110c107.webp",
+    "static/media/1.webp": "/Tourism/static/media/1.302686e20daf5103b102.webp",
+    "static/media/7.webp": "/Tourism/static/media/7.e206d0c546905902abab.webp",
+    "static/media/8.webp": "/Tourism/static/media/8.977bfc83b9a64cd19c10.webp",
+    "static/media/Real-logo.png": "/Tourism/static/media/Real-logo.a8f1f22833aa0c85035b.png",
+    "static/media/6.jpg": "/Tourism/static/media/6.4bcc0436396c4cf3249c.jpg",
+    "static/media/4.webp": "/Tourism/static/media/4.eacb650626ed96bab74c.webp",
+    "static/media/india.png": "/Tourism/static/media/india.902320dae003fd6f3d50.png",
+    "static/media/3.webp": "/Tourism/static/media/3.273bd11109999e9082b9.webp",
+    "static/media/word india.png": "/Tourism/static/media/word india.5af140b278ee55937a7b.png",
+    "static/media/Pmsign2.png": "/Tourism/static/media/Pmsign2.c144acc0c98ca2a3696d.png",
+    "index.html": "/Tourism/index.html",
+    "main.eaa7db12.css.map": "/Tourism/static/css/main.eaa7db12.css.map",
+    "main.490304b6.js.map": "/Tourism/static/js/main.490304b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa7db12.css",
+    "static/js/main.490304b6.js"
+  ]
+}
