@@ -81,9 +81,10 @@
 
 @media screen and (max-width: 650px){
     .app__aboutus-overlay img{
-        height: 200px;
+        height: 180px;
     }
     .app__aboutus-content_namaste img{
-        width: 40vb;
+        padding-top: 6rem;
+        width: 33vb;
     }
 }

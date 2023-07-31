@@ -35,18 +35,19 @@ const Navbar = () => {
       }}>React <span style={{color:"var(--color-golden)"}}>Project</span></a>
     </div>
     <div className="app__navbar-smallscreen">
-      <GiHamburgerMenu color='#fff' fontSize={27} onClick={()=>setToggleMenu(true) } />
+      <GiHamburgerMenu color='#fff' fontSize={27} style={{cursor:"pointer"}} onClick={()=>setToggleMenu(true) } />
       
       {/* Conditional Rendering */}
       {toggleMenu && (
         <div className="app__navbar-smallscreen_overlay flex__center slide-bottom">
         <MdOutlineRestaurantMenu fontSize={27} className='overlay__close' onClick={()=>setToggleMenu(false)}/>
         <ul className='app__navbar-smallscreen-links'>
-          <li className='p__opensans'><a href="#home">Home</a></li>
-          <li className='p__opensans'><a href="#about">About</a></li>
-          <li className='p__opensans'><a href="#trending">Trending</a></li>
-          <li className='p__opensans'><a href="#food">Food</a></li>
-          <li className='p__opensans'><a href="#contact">contact</a></li>
+        <li className='p__opensans'><a href="#home">Home</a></li>
+      <li className='p__opensans'><a href="#about">About</a></li>
+      <li className='p__opensans'><a href="#testimonial">Message</a></li>
+      <li className='p__opensans'><a href="#intro">Intro</a></li>
+      <li className='p__opensans'><a href="#gallery">Gallery</a></li>
+      <li className='p__opensans'><a href="#footer">contact</a></li>
         </ul>
       </div>
       )}
