@@ -16,7 +16,7 @@ const Navbar = () => {
       <img src={logo} alt="app logo" />
     </div>
     <ul className='app__navbar-link'>
-      <li className='p__opensans'><a href="#home">Home</a></li>
+      <li className='p__opensans'><a href="/">Home</a></li>
       <li className='p__opensans'><a href="#about">About</a></li>
       <li className='p__opensans'><a href="#testimonial">Message</a></li>
       <li className='p__opensans'><a href="#intro">Intro</a></li>
