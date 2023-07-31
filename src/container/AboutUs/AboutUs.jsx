@@ -10,7 +10,7 @@ import temple from "../../assets2/icons8-temple-58.png"
 const AboutUs = () => (
   <div className='app__aboutus app__bg flex__center section__padding' id='about'>
     <div className="app__aboutus-overlay flex__center">
-      <img src={ilogo} alt="I letter" />
+      <img src={ilogo} alt="India word" />
     </div>
 
     <div className="app__aboutus-content flex__center">
