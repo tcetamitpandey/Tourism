@@ -3,7 +3,7 @@ import React from 'react';
 import './AboutUs.css';
 import ilogo from "../../assets2/word india.png"
 import namaste from "../../assets2/namaste hands 2.png"
-import indiagate from "../../assets2/icons8-taj-mahal-64.png"
+import indiagate from "../../assets2/icons8-taj-mahal-64.png" 
 import temple from "../../assets2/icons8-temple-58.png"
 
 
