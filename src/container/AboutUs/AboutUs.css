@@ -80,15 +80,15 @@
     
     .app__aboutus-overlay img{
         padding: 0 15px;
-        width: 500px;
-        height: 200px;
+        width: 40em;
     }
 
     .app__aboutus-content_namaste{
         margin: 4rem 0;
     }
     .app__aboutus-content_namaste img{
-       width: 300px;
+        padding: 15px 0 0 0;
+       width: 20em;
     }
    
 }
