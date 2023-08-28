@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tourism/static/css/main.b7e2f6c2.css",
-    "main.js": "/Tourism/static/js/main.77349f22.js",
+    "main.css": "/Tourism/static/css/main.01422c73.css",
+    "main.js": "/Tourism/static/js/main.e04e9796.js",
     "static/media/MYIndia.mp4": "/Tourism/static/media/MYIndia.a6dedcab9f6f04761ba5.mp4",
     "static/media/bg.png": "/Tourism/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/header.png": "/Tourism/static/media/header.763a5dd6de3c893c5c06.png",
@@ -24,11 +24,11 @@
     "static/media/word india.png": "/Tourism/static/media/word india.5af140b278ee55937a7b.png",
     "static/media/Pmsign2.png": "/Tourism/static/media/Pmsign2.c144acc0c98ca2a3696d.png",
     "index.html": "/Tourism/index.html",
-    "main.b7e2f6c2.css.map": "/Tourism/static/css/main.b7e2f6c2.css.map",
-    "main.77349f22.js.map": "/Tourism/static/js/main.77349f22.js.map"
+    "main.01422c73.css.map": "/Tourism/static/css/main.01422c73.css.map",
+    "main.e04e9796.js.map": "/Tourism/static/js/main.e04e9796.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7e2f6c2.css",
-    "static/js/main.77349f22.js"
+    "static/css/main.01422c73.css",
+    "static/js/main.e04e9796.js"
   ]
 }
