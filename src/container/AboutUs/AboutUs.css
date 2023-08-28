@@ -61,7 +61,7 @@
 @media screen and (max-width: 2000px){
 
     .app__aboutus-content_namaste img{
-        width: 60vb;
+        width: 20em;
     }
     .app__aboutus-content_about p,
     .app__aboutus-content_history p{
@@ -88,7 +88,7 @@
     }
     .app__aboutus-content_namaste img{
         padding: 15px 0 0 0;
-       width: 20em;
+       width: 15em;
     }
    
 }
