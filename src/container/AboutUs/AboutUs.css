@@ -76,7 +76,7 @@
 
 @media screen and (max-width: 1200px ){
     .app__aboutus-content_about p{
-        text-align: start;
+        text-align: end;
     }
     .app__aboutus-content{
         flex-direction: column;
@@ -85,15 +85,8 @@
        display: flex;
        justify-content: center;
     }
-    
-    .app__aboutus-overlay img{
-        padding: 0 15px;
-        width: 45em;
-    }
-
-
 }
-
+/* This portion is added to fix responsive nature */
 @media screen and (max-width: 900px){
     .app__aboutus-content{
         flex-direction: column;
@@ -117,6 +110,7 @@
     }
    
 }
+
 
 @media screen and (max-width: 650px){
     .app__aboutus-overlay img{
