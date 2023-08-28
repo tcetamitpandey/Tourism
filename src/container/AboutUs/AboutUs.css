@@ -74,13 +74,14 @@
 }
 
 
-@media screen and (max-width: 1200px ){
+/* @media screen and (max-width: 1200px ){
     .app__aboutus-content_about p{
         text-align: start;
     }
 
     .app__aboutus-content_namaste{
-        width: 15em;
+        width: 30vb;
+        padding: 0;
     }
     .app__aboutus-content_namaste img{
         width: 10em;
@@ -91,9 +92,9 @@
         padding: 0 15px;
         width: 35em;
     }
-}
+} */
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 1200px){
     .app__aboutus-content{
         flex-direction: column;
     }
