@@ -59,6 +59,10 @@
 
 
 @media screen and (max-width: 2000px){
+    .app__aboutus-content_about p{
+        text-align: center;
+    }
+
 
     .app__aboutus-content_namaste img{
         width: 20em;
@@ -66,6 +70,26 @@
     .app__aboutus-content_about p,
     .app__aboutus-content_history p{
     margin: 4rem 0;
+    }
+}
+
+
+@media screen and (max-width: 1200px ){
+    .app__aboutus-content_about p{
+        text-align: start;
+    }
+
+    .app__aboutus-content_namaste{
+        width: 15em;
+    }
+    .app__aboutus-content_namaste img{
+        width: 15em;
+        margin: 0;
+        
+    }
+    .app__aboutus-overlay img{
+        padding: 0 15px;
+        width: 35em;
     }
 }
 
@@ -80,7 +104,7 @@
     
     .app__aboutus-overlay img{
         padding: 0 15px;
-        width: 40em;
+        width: 30em;
     }
 
     .app__aboutus-content_namaste{
