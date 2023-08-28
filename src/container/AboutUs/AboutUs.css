@@ -79,14 +79,16 @@
     }
     
     .app__aboutus-overlay img{
-        width: 90vb;
+        padding: 0 15px;
+        width: 500px;
+        height: 200px;
     }
 
     .app__aboutus-content_namaste{
         margin: 4rem 0;
     }
     .app__aboutus-content_namaste img{
-       width: 50vb;
+       width: 300px;
     }
    
 }
