@@ -2,6 +2,7 @@ import React,{useState} from 'react';
 //importing icons 
 import {GiHamburgerMenu} from "react-icons/gi"
 import {MdOutlineRestaurantMenu} from "react-icons/md"
+import close from "../../assets2/icons8-weapon-50.png"
 // import logo from "../../assets2/india-doodle.png"
 import logo from "../../assets2/Real-logo.png"
 
@@ -40,7 +41,8 @@ const Navbar = () => {
       {/* Conditional Rendering */}
       {toggleMenu && (
         <div className="app__navbar-smallscreen_overlay flex__center slide-bottom">
-        <MdOutlineRestaurantMenu fontSize={27} className='overlay__close' onClick={()=>setToggleMenu(false)}/>
+          <img src={close} alt="closing logo" width="30px" className='overlay__close' onClick={()=>setToggleMenu(false)} />
+        {/* <MdOutlineRestaurantMenu /> */}
         <ul className='app__navbar-smallscreen-links'>
         <li className='p__opensans'><a href="/" onClick={()=>setToggleMenu(false)}>Home</a></li>
       <li className='p__opensans'><a href="#about" onClick={()=>setToggleMenu(false)}>About</a></li>

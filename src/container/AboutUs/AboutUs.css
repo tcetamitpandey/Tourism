@@ -73,8 +73,20 @@
     .app__aboutus-content{
         flex-direction: column;
     }
+    .app__aboutus-overlay{
+       display: flex;
+       justify-content: center;
+    }
+    
+    .app__aboutus-overlay img{
+        width: 90vb;
+    }
+
     .app__aboutus-content_namaste{
         margin: 4rem 0;
+    }
+    .app__aboutus-content_namaste img{
+       width: 50vh;
     }
    
 }
